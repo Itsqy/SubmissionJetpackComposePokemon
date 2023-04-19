@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubmissionJetpackComposePokemon</string>
+    <string name="poke_name">name pokemon  %d </string>
+    <string name="required_point">%d Pts</string>
+    <string name="home">Home</string>
+    <string name="back">back button</string>
+    <string name="my_name">Muhammad Rifqi Syatria</string>
+    <string name="url_image">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:1569157dbac36559afd3989ab8308ff820230315194509.png</string>
+    <string name="my_email">syatriarifqi@gmail.com</string>
+</resources>
